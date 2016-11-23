@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Headforwards.Veracode.Api", "Headforwards.Veracode.Api\Headforwards.Veracode.Api.csproj", "{F8915025-7F04-42E9-9BA5-8FCFF20C1474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Headforwards.Axa.Ppp.WebApi", "Headforwards.Veracode.WebApi\Headforwards.Axa.Ppp.WebApi.csproj", "{C8790CBD-EBC7-4744-8C59-4830B1A785AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8915025-7F04-42E9-9BA5-8FCFF20C1474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8915025-7F04-42E9-9BA5-8FCFF20C1474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8915025-7F04-42E9-9BA5-8FCFF20C1474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8915025-7F04-42E9-9BA5-8FCFF20C1474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8790CBD-EBC7-4744-8C59-4830B1A785AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8790CBD-EBC7-4744-8C59-4830B1A785AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8790CBD-EBC7-4744-8C59-4830B1A785AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8790CBD-EBC7-4744-8C59-4830B1A785AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
